@@ -1,8 +1,8 @@
 <?php
 
 //config
-define("servername", "DESKTOP-N2S7FH6\MSSQLSERVER2"); //NOMBRE DEL SERVIDOR
-define("database", "prueba"); //NOMBRE BASE DE DATOS
-define("uid", "sa"); //USUARIO
-define("pwd", "Kaspersky7"); //PASSWORD
+define("servername", ""); //NOMBRE DEL SERVIDOR
+define("database", "prueba"); //NOMBRE DE LA BASE DE DATOS
+define("uid", ""); //INICIO DE SESIÓN
+define("pwd", ""); //CONTRASEÑA
 define("characterset", "UTF-8");
