@@ -1,5 +1,5 @@
 create database prueba
-gogogoog
+go
 
 use prueba
 go
