@@ -1,8 +1,8 @@
 create database prueba
-gogo
+go
 
 use prueba
-gogo
+go
 
 create table persona(
 id int not null identity(1,1) primary key,
@@ -10,7 +10,7 @@ nombre varchar(100),
 apellido varchar(100),
 edad int
 )
-gogo
+go
 
 insert into persona (nombre, apellido, edad) values ('nombre1', 'apellido1', 11),('nombre2', 'apellido2', 12),('nombre3', 'apellido3', 13)
 go
