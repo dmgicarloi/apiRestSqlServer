@@ -1,5 +1,5 @@
 create database prueba
-go
+gogoogogo
 
 use prueba
 go
@@ -15,7 +15,7 @@ go
 insert into persona (nombre, apellido, edad) values ('nombre1', 'apellido1', 11),('nombre2', 'apellido2', 12),('nombre3', 'apellido3', 13)
 go
 
-/* Sin par·metros */
+/* Sin par√°metros */
 create procedure sp_persona_sin_parametros
 as
 begin
@@ -25,7 +25,7 @@ begin
 end
 go
 
-/* Con par·metros */
+/* Con par√°metros */
 create procedure sp_persona_con_parametros
 @id int
 as
